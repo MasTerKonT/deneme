@@ -16,9 +16,3 @@ def main():
 
 if __name__=="__main__":
     main()
-
-
-#Toprak: 91 -> 97
-#Altuğ: 80 -> 75
-#Erdem: 89
-#Bilgehan: 75 -> 70
